@@ -11,9 +11,9 @@ author: Chris Russoniello
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Youtube Page: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "www.chrisrussoniello.com"
+  Author's home: "http://www.chrisrussoniello.com"
 
 # --- Logo --- #
 
